@@ -1,6 +1,6 @@
 # toc-tkg-app-example
 
-## This repo if for use with a companion blog post at [Thinking Out Cloud Blog](https://thinkingoutcloud.org)
+## This repo is for use with a companion blog post at [Thinking Out Cloud Blog](https://thinkingoutcloud.org)
 
 ## Installation
 
