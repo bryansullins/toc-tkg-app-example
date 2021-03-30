@@ -13,9 +13,10 @@ You will need a running Kubernetes Cluster.
 
 ## Usage
 
-Once MetalLB is installed and the K8s Cluster is ready:
+Once MetalLB and Ingress is installed and the K8s Cluster is ready:
 
 ```bash
+kubectl create namespace whizbangapp
 kubectl create -f metallb-config.yaml
 kubectl create -f nginx-lb-deployment.yaml
 ```
